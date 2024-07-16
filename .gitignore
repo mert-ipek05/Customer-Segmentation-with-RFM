@@ -1,0 +1,8 @@
+# Jupyter Notebook Gereksiz Dosyaları
+*.ipynb_checkpoints
+*.pyc
+__pycache__/
+
+# macOS Gereksiz Dosyaları
+.DS_Store
+._*
